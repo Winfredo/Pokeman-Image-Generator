@@ -1,5 +1,5 @@
 const fetchData = async () => {
-  const pokemonName = document
+   const pokemonName = document
     .getElementById("pokemonName")
     .value.toLowerCase();
   try {
